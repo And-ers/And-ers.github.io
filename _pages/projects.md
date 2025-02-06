@@ -5,7 +5,7 @@ permalink: /projects/
 ---
 
 ---
-1. ## [Thompson's Group F](https://github.com/And-ers/thompsons-group-f) (Research Tool)
-   ### Python
+1. ## [Thompson's Group F](https://github.com/And-ers/thompsons-group-f)
+   ### Research Tool
 
-   <img src="images/thompson-thumbnail.jpg">
+   <img src="../images/thompson-thumbnail.jpg">
