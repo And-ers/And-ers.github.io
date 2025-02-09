@@ -10,7 +10,7 @@ permalink: /projects/
 
    <img src="../images/thompson-thumbnail.jpg">
 
-   This package implements _Thompson's Group_ $F$, from this point simply referred to as $F$, as a Python class. For the necessary background information, please see José Burillo's _Introduction to Thompson's Group_ $F$, available from his [page on the Universitat Politècnica de Catalunya website](https://web.mat.upc.edu/pep.burillo/book_en.php). This book assumes basic knowledge of group theory and graph theory.
+   This package implements _Thompson's Group_ \\(F\\), from this point simply referred to as $F$, as a Python class. For the necessary background information, please see José Burillo's _Introduction to Thompson's Group_ $F$, available from his [page on the Universitat Politècnica de Catalunya website](https://web.mat.upc.edu/pep.burillo/book_en.php). This book assumes basic knowledge of group theory and graph theory.
 
    Elements of $F$ are implemented using the following infinite presentation by generators and relations:
 
@@ -26,8 +26,8 @@ permalink: /projects/
    - Representing elements by forest diagrams (in the form of strings and Python Turtle drawings).
    - Calculating the word length of elements in terms of generators $x_0$ and $x_1$.
 
-   ## Planned Features:
+   **Planned Features:**
    - Representing of elements as pairs of binary trees.
 
-   ## Requirements:
+   **Requirements:**
    - Python 3.10 or newer.
