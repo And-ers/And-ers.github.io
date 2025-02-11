@@ -5,6 +5,7 @@ permalink: /projects/
 ---
 
 ---
+<div class="stylebox">
 1. ## [Thompson's Group F](https://github.com/And-ers/thompsons-group-f)
    #### Research Tool
 
@@ -31,6 +32,7 @@ permalink: /projects/
 
    **Requirements:**
    - Python 3.10 or newer.
+</div>
   
 2. ## [ForPeanuts (4PN) Small Inventory Manager](https://github.com/And-ers/4peanuts)
    #### Personal Project
