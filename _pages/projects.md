@@ -6,6 +6,7 @@ permalink: /projects/
 
 ---
 <div class="stylebox">
+
 1. ## [Thompson's Group F](https://github.com/And-ers/thompsons-group-f)
    #### Research Tool
 
@@ -34,7 +35,7 @@ permalink: /projects/
    - Python 3.10 or newer.
 </div>
   
-2. ## [ForPeanuts (4PN) Small Inventory Manager](https://github.com/And-ers/4peanuts)
+1. ## [ForPeanuts (4PN) Small Inventory Manager](https://github.com/And-ers/4peanuts)
    #### Personal Project
 
    ForPeanuts is a small inventory manager, designed with a focus on simplicity and ease of use. This was originally designed for use by vendors at a local farmer's market, but ended up becoming more of a personal coding project. Designed with PyQt6.
