@@ -7,7 +7,7 @@ permalink: /projects/
 ---
 <div class="stylebox" markdown="1">
 
-1. ## [Thompson's Group F](https://github.com/And-ers/thompsons-group-f)
+   ## [Thompson's Group F](https://github.com/And-ers/thompsons-group-f)
    #### Research Tool
 
    <img src="../images/thompson-thumbnail.jpg">
@@ -23,10 +23,10 @@ permalink: /projects/
    [Documentation](http://exotic-groups.rtfd.io/) is hosted on ReadTheDocs.
 
    **Current Features:**
-   - Multiplication and division of abstract elements in \(F\).
+   - Multiplication and division of abstract elements in \\(F\\).
    - Finding normal forms of elements.
    - Representing elements by forest diagrams (in the form of strings and Python Turtle drawings).
-   - Calculating the word length of elements in terms of generators \(x_0\) and \(x_1\).
+   - Calculating the word length of elements in terms of generators \\(x_0\\) and \\(x_1\\).
 
    **Planned Features:**
    - Representing of elements as pairs of binary trees.
@@ -38,7 +38,7 @@ permalink: /projects/
 
 <div class="stylebox" markdown="1">
 
-1. ## [ForPeanuts (4PN) Small Inventory Manager](https://github.com/And-ers/4peanuts)
+   ## [ForPeanuts (4PN) Small Inventory Manager](https://github.com/And-ers/4peanuts)
    #### Personal Project
 
    ForPeanuts is a small inventory manager, designed with a focus on simplicity and ease of use. This was originally designed for use by vendors at a local farmer's market, but ended up becoming more of a personal coding project. Designed with PyQt6.
