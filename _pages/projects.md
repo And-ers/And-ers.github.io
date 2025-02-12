@@ -5,7 +5,7 @@ permalink: /projects/
 ---
 
 ---
-<div class="stylebox">
+<div class="stylebox" markdown="1">
 
 1. ## [Thompson's Group F](https://github.com/And-ers/thompsons-group-f)
    #### Research Tool
@@ -36,7 +36,7 @@ permalink: /projects/
 
 </div>
 
-<div class="stylebox">
+<div class="stylebox" markdown="1">
 
 1. ## [ForPeanuts (4PN) Small Inventory Manager](https://github.com/And-ers/4peanuts)
    #### Personal Project
