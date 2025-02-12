@@ -10,7 +10,7 @@ permalink: /projects/
 ## [Thompson's Group F](https://github.com/And-ers/thompsons-group-f)
 #### Research Tool
 
-<img src="../images/thompson-thumbnail.jpg">
+<img src="../images/thompson-thumbnail.jpg" width=750px>
 
 This package implements _Thompson's Group_ \\(F\\), from this point simply referred to as \\(F\\), as a Python class. For the necessary background information, please see José Burillo's _Introduction to Thompson's Group_ \\(F\\), available from his [page on the Universitat Politècnica de Catalunya website](https://web.mat.upc.edu/pep.burillo/book_en.php). This book assumes basic knowledge of group theory and graph theory.
 
