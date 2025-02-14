@@ -31,9 +31,9 @@ Given a pointed metric space \\((X,\mathrm{dist},w)\\) on \\(n\\) points, its Gr
 
 # An Improved Algorithm for Gromov's Approximating Tree
 
-#### MUN Summer Undergraduate Research Forum (Oct. 2023) <br margin-bottom="10px">
-#### Science Atlantic Mathematics, Statistics and Computer Science (Oct. 2023) <br margin-bottom="10px" margin-top="10px">
-#### MUN Cross-Campus Combinatorics Conference (Aug. 2023) <br margin-botton="10px" margin-top="10px">
+#### <p style="margin : 0; padding-top:0;"> MUN Summer Undergraduate Research Forum (Oct. 2023) </p>
+#### <p style="margin : 0; padding-top:0;"> Science Atlantic Mathematics, Statistics and Computer Science (Oct. 2023) </p>
+#### <p style="margin : 0; padding-top:0;"> MUN Cross-Campus Combinatorics Conference (Aug. 2023) </p>
 
 In 1987, Mikhail Gromov described an algorithm for constructing an approximating tree for an arbitrary finite metric space, with additive error proportional to a property of the space called the Gromov hyperbolicity. We discuss an improved version of this algorithm when the metric space is a graph, which runs in O(n²) time given the graph's adjacency matrix.
 
