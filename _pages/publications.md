@@ -10,7 +10,7 @@ permalink: /publications/
 
 <div class="stylebox" markdown="1">
 
-# [The Lamplighter Groups and Thompson's Group F have <br /> Infinite Weak-Cop Number](https://arxiv.org/abs/2406.11996)
+# [The Lamplighter Groups and Thompson's Group F have Infinite Weak-Cop Number](https://arxiv.org/abs/2406.11996)
 #### *Anders Cornect, Eduardo Martinez-Pedroza*
 
 The weak-cop number of a graph, introduced by Lee et al (2023), is a quasi-isometric invariant of graphs and hence of finitely generated groups via their Cayley graphs. While for any \\(m \in \mathbb{Z}_+ \cup \\{\infty\\} \\) there exist graphs with weak-cop number \\(m\\), it is an open question whether there exists finitely generated groups whose weak-cop number is different than \\(1\\) and \\(\infty\\). We prove that wreath products of nontrivial groups by infinite groups have infinite weak-cop number. We also prove that Thompson's group \\(F\\) has infinite weak-cop number. The results are proved by defining two new pursuit and evasion games and proving the existence of strategies for the evader. In the case of Thompson's group \\(F\\), we also present an alternative and more algebraic argument proving that it has infinite weak-cop number.
@@ -31,21 +31,9 @@ Given a pointed metric space \\((X,\mathrm{dist},w)\\) on \\(n\\) points, its Gr
 
 # An Improved Algorithm for Gromov's Approximating Tree
 
-<p style="margin : 0; padding-top:0;">
-
-#### MUN Summer Undergraduate Research Forum (Oct. 2023)
-
-</p>
-<p style="margin : 0; padding-top:0;">
-
-#### Science Atlantic Mathematics, Statistics and Computer Science (Oct. 2023)
-
-</p>
-<p style="margin : 0; padding-top:0;">
-
-#### MUN Cross-Campus Combinatorics Conference (Aug. 2023)
-
-</p>
+#### MUN Summer Undergraduate Research Forum (Oct. 2023) <br>
+#### Science Atlantic Mathematics, Statistics and Computer Science (Oct. 2023) <br>
+#### MUN Cross-Campus Combinatorics Conference (Aug. 2023) <br>
 
 In 1987, Mikhail Gromov described an algorithm for constructing an approximating tree for an arbitrary finite metric space, with additive error proportional to a property of the space called the Gromov hyperbolicity. We discuss an improved version of this algorithm when the metric space is a graph, which runs in O(n²) time given the graph's adjacency matrix.
 
