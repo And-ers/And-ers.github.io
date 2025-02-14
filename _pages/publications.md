@@ -39,7 +39,7 @@ In 1987, Mikhail Gromov described an algorithm for constructing an approximating
 
 </div>
 
-2022
+## 2022
 
 <div class="stylebox" markdown="1">
 
