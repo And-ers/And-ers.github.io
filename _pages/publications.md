@@ -31,17 +31,17 @@ Given a pointed metric space \\((X,\mathrm{dist},w)\\) on \\(n\\) points, its Gr
 
 # An Improved Algorithm for Gromov's Approximating Tree
 
-<p style="margin : 0; padding-top:0;" markdown="1">
+<p style="margin : 0; padding-top:0;">
 
 #### MUN Summer Undergraduate Research Forum (Oct. 2023)
 
 </p>
-<p style="margin : 0; padding-top:0;" markdown="1">
+<p style="margin : 0; padding-top:0;">
 
 #### Science Atlantic Mathematics, Statistics and Computer Science (Oct. 2023)
 
 </p>
-<p style="margin : 0; padding-top:0;" markdown="1">
+<p style="margin : 0; padding-top:0;">
 
 #### MUN Cross-Campus Combinatorics Conference (Aug. 2023)
 
