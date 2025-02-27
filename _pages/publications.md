@@ -11,6 +11,7 @@ permalink: /publications/
 <div class="stylebox" markdown="1">
 
 # [The Lamplighter Groups and Thompson's Group F have Infinite Weak-Cop Number](https://doi.org/10.1007/s10711-025-00991-x)
+
 <p style="text-align:left;", markdown="1">
 
 ### Geometrae Dedicata, 2025
