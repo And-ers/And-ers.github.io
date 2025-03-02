@@ -14,11 +14,11 @@ permalink: /publications/
 
 <p style="text-align:left;" markdown="1">
 
-### Geometrae Dedicata, 2025
+**Geometrae Dedicata, 2025**
 
 <span style="float:right;" markdown="1">
 
-### Anders Cornect, Eduardo Martinez-Pedroza
+**Anders Cornect, Eduardo Martinez-Pedroza**
 
 </span>
 
