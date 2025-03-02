@@ -14,11 +14,11 @@ permalink: /publications/
 
 <p style="text-align:left;" markdown="1">
 
-***Geometrae Dedicata, 2025***
+***Anders Cornect, Eduardo Martinez-Pedroza***
 
 <span style="float:right;" markdown="1">
 
-***Anders Cornect, Eduardo Martinez-Pedroza***
+***Geometrae Dedicata, 2025***
 
 </span>
 
@@ -36,11 +36,11 @@ The weak-cop number of a graph, introduced by Lee et al (2023), is a quasi-isome
 
 <p style="text-align:left;" markdown="1">
 
-***Unpublished***
+***Anders Cornect, Eduardo Martinez-Pedroza***
 
 <span style="float:right;" markdown="1">
 
-***Anders Cornect, Eduardo Martinez-Pedroza***
+***Unpublished***
 
 </span>
 
