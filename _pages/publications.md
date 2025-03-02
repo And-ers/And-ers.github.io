@@ -36,7 +36,7 @@ The weak-cop number of a graph, introduced by Lee et al (2023), is a quasi-isome
 
 <p style="text-align:left;" markdown="1">
 
-
+***Unpublished***
 
 <span style="float:right;" markdown="1">
 
