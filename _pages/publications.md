@@ -34,9 +34,15 @@ The weak-cop number of a graph, introduced by Lee et al (2023), is a quasi-isome
 
 # [Gromov's Approximating Tree and the All-Pairs Bottleneck Paths Problem](https://arxiv.org/abs/2408.05338)
 
-<p style="float:right;" markdown="1">
+<p style="text-align:left;" markdown="1">
+
+
+
+<span style="float:right;" markdown="1">
 
 ***Anders Cornect, Eduardo Martinez-Pedroza***
+
+</span>
 
 </p>
 
