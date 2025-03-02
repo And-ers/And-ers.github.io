@@ -28,8 +28,7 @@ The weak-cop number of a graph, introduced by Lee et al (2023), is a quasi-isome
 
 </div>
 
-## 2025
-
+## 2024
 
 <div class="stylebox" markdown="1">
 
