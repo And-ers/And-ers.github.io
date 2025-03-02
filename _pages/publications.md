@@ -35,11 +35,11 @@ The weak-cop number of a graph, introduced by Lee et al (2023), is a quasi-isome
 
 # [Gromov's Approximating Tree and the All-Pairs Bottleneck Paths Problem](https://arxiv.org/abs/2408.05338)
 
-<span style="float:right;" markdown="1">
+<p style="float:right;" markdown="1">
 
-**Anders Cornect, Eduardo Martinez-Pedroza**
+***Anders Cornect, Eduardo Martinez-Pedroza***
 
-</span>
+</p>
 
 Given a pointed metric space \\((X,\mathrm{dist},w)\\) on \\(n\\) points, its Gromov's approximating tree is a \\(0\\)-hyperbolic pseudo-metric space \\((X,\mathrm{dist}_T)\\) such that \\(\mathrm{dist}(x,w)=\mathrm{dist}_T(x,w)\\) and \\(\mathrm{dist}(x,y)−2\delta\log_2n \le \mathrm{dist}_T(x,y) \le \mathrm{dist}(x,y)\\) for all \\(x,y \in X\\) where \\(\delta\\) is the Gromov hyperbolicity of \\(X\\). On the other hand, the all pairs bottleneck paths (APBP) problem asks, given an undirected graph with some capacities on its edges, to find the maximal path capacity between each pair of vertices. In this note, we prove: (1) Computing Gromov's approximating tree for a metric space with \\(n+1\\) points from its matrix of distances reduces to solving the APBP problem on an connected graph with \\(n\\) vertices. (2) There is an explicit algorithm that computes Gromov's approximating tree for a graph from its adjacency matrix in quadratic time. (3) Solving the APBP problem on a weighted graph with n vertices reduces to finding Gromov's approximating tree for a metric space with \\(n+1\\) points from its distance matrix. 
 
