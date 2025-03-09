@@ -40,7 +40,7 @@ The weak-cop number of a graph, introduced by Lee et al (2023), is a quasi-isome
 
 <span style="float:right;" markdown="1">
 
-***Unpublished***
+***Preprint***
 
 </span>
 
@@ -59,11 +59,15 @@ Given a pointed metric space \\((X,\mathrm{dist},w)\\) on \\(n\\) points, its Gr
 
 # An Improved Algorithm for Gromov's Approximating Tree
 
-#### MUN Summer Undergraduate Research Forum (Oct. 2023) <br>
-#### Science Atlantic Mathematics, Statistics and Computer Science (Oct. 2023) <br>
-#### MUN Cross-Campus Combinatorics Conference (Aug. 2023) <br>
+<p style="text-align:left;" markdown="1">
 
-In 1987, Mikhail Gromov described an algorithm for constructing an approximating tree for an arbitrary finite metric space, with additive error proportional to a property of the space called the Gromov hyperbolicity. We discuss an improved version of this algorithm when the metric space is a graph, which runs in O(n²) time given the graph's adjacency matrix.
+***MUN Summer Undergraduate Research Forum (Oct. 2023)***
+***Science Atlantic Mathematics, Statistics and Computer Science (Oct. 2023)***
+***MUN Cross-Campus Combinatorics Conference (Aug. 2023)***
+
+</p>
+
+In 1987, Mikhail Gromov described an algorithm for constructing an approximating tree for an arbitrary finite metric space, with additive error proportional to a property of the space called the Gromov hyperbolicity. We discuss an improved version of this algorithm when the metric space is a graph, which runs in \\(O(n^2)\\) time given the graph's adjacency matrix.
 
 </div>
 
@@ -76,6 +80,6 @@ In 1987, Mikhail Gromov described an algorithm for constructing an approximating
 #### MUN Summer Undergraduate Research Forum (Sep. 2022) <br>
 #### East Coast Combinatorics Conference (Aug. 2022)
 
-The watchman number of a graph G is the length of a minimum, closed, dominating walk on G, which we denote w(G). We provide results on the watchman number of certain Cayley graphs. We establish sharp bounds, along with exact values in certain special cases, for directed circulant graphs of out-degree 2. We also provide a full survey of the watchman number for all 3-regular Cayley graphs of abelian groups, using a known classification of such graphs into isomorphism classes.
+The watchman number of a graph \\(G\\) is the length of a minimum, closed, dominating walk on \\(G\\), which we denote \\(w(G)\\). We provide results on the watchman number of certain Cayley graphs. We establish sharp bounds, along with exact values in certain special cases, for directed circulant graphs of out-degree \\(2\\). We also provide a full survey of the watchman number for all \\(3\\)-regular Cayley graphs of abelian groups, using a known classification of such graphs into isomorphism classes.
 
 </div>
