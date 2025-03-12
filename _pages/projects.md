@@ -9,7 +9,7 @@ permalink: /projects/
 
 <div class="stylebox" markdown="1">
 
-## [Thompson's Group F](https://github.com/And-ers/thompsons-group-f)
+## [Thompson's Group F Python Package](https://github.com/And-ers/thompsons-group-f)
 #### Research Tool
 
 <img src="../images/thompson-thumbnail.jpg" width=750px>
