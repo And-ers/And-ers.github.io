@@ -5,7 +5,7 @@ permalink: /projects/
 ---
 
 ---
-<p style="margin-bottom:3cm;"></p>
+<p style="margin-bottom:1cm;"></p>
 
 <div class="stylebox" markdown="1">
 
@@ -37,6 +37,8 @@ Each element is represented as a product of the above generators \\(x_i\\). Much
 - Python 3.10 or newer.
 
 </div>
+
+<p style="margin-bottom:1cm;"></p>
 
 <div class="stylebox" markdown="1">
 
