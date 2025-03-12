@@ -5,6 +5,8 @@ permalink: /projects/
 ---
 
 ---
+<p style="margin-bottom:3cm;"></p>
+
 <div class="stylebox" markdown="1">
 
 ## [Thompson's Group F](https://github.com/And-ers/thompsons-group-f)
