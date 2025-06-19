@@ -12,7 +12,7 @@ permalink: /projects/
 ## [Gromov's Approximating Tree .ipynb](https://github.com/And-ers/Gromov-Trees)
 #### Research Tool / Demonstration
 
-<div>
+<div style="float:center">
     <div style="float:left;margin-right:5px;">
         <img src="../images/approxgraph.png" width=300px />
     </div>
