@@ -4,16 +4,11 @@
 //
 // IMPORTS
 //
-
-@import "reset";
-@import "variables";
 // Syntax highlighting @import is at the bottom of this file
 
 /**************/
 /* BASE RULES */
 /**************/
-
-@import url('https://fonts.googleapis.com/css?family=Roboto');
 
 html {
   font-size: 100%;
@@ -497,6 +492,11 @@ body:after {
 Modules - reusable parts of our design
 
 -------------------------------- */
+.multi-img {
+  display: flex;
+  justify-content: center;
+}
+
 .cd-container {
   /* this class is used to give a max-width to the element it is applied to, and center it horizontally when it reaches that max-width */
   width: 90%;
@@ -1147,6 +1147,9 @@ Modules - reusable parts of our design
 
 // Settled on moving the import of syntax highlighting to the bottom of the CSS
 // ... Otherwise it really bloats up the top of the CSS file and makes it difficult to find the start
-//@import "highlights";
+@import url('https://fonts.googleapis.com/css?family=Roboto');
+@import "reset";
+@import "variables";
+@import "highlights";
 @import "darcula";
 @import "svg-icons";
