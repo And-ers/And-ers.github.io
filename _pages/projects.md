@@ -13,8 +13,8 @@ permalink: /projects/
 #### Research Tool / Demonstration
 
 <div class="multi-img">
-   <img src="../images/approxgraph.png"  width=300px/>
-   <img src="../images/approxedtree.png" width=300px/>
+   <img src="../images/approxgraph.png"  width=350px/>
+   <img src="../images/approxedtree.png" width=350px/>
 </div>
 
 <p>
