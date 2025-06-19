@@ -17,8 +17,6 @@ permalink: /projects/
       <img src="../images/approxedtree.png" width=300px/>
 </div>
 
-<p style="margin-bottom:0.5cm;"></p>
-
 Included in this repository is a Jupyter Notebook file containing an implementation of the algorithm discussed in [Gromov's Approximating Tree and the All-Pairs Bottleneck Paths Problem](https://arxiv.org/abs/2408.05338#) by Anders Cornect (myself) and Dr. Eduardo Martinez-Pedroza of Memorial University of Newfoundland.
 
 **Current Features:**
