@@ -493,6 +493,8 @@ Modules - reusable parts of our design
 
 -------------------------------- */
 .multi-img {
+  margin-left: auto;
+  margin-right: auto;
   display: flex;
   justify-content: center;
 }
