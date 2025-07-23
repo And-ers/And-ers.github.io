@@ -4,7 +4,7 @@ title: About Me
 permalink: /about/
 ---
 
-<div style="margin:20 px;">
+<div style="margin:20px;">
 
 Hi! My name is Anders Cornect, and I'm a Master's student at the University of Waterloo, currently pursuing an MMath in Computational Mathematics.
 
