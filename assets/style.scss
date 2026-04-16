@@ -1159,7 +1159,12 @@ Modules - reusable parts of our design
 }
 
 .abstract{
-  font-size: 12px;
+  font-size: 14px;
+}
+
+.author{
+  font-size: 14px;
+  padding: 0px;
 }
 
 // Settled on moving the import of syntax highlighting to the bottom of the CSS
