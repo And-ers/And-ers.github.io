@@ -8,7 +8,7 @@ permalink: /publications/
 
 ## 2026
 
-<div class="stylebox" markdown="1">
+<div markdown="1">
 
 # Structured Preconditioners for Smith Form Computations
 
