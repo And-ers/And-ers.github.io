@@ -16,7 +16,6 @@
 html {
   font-size: 100%;
   height: 100%;
-  overflow-y: scroll;
 }
 
 body {
@@ -25,13 +24,13 @@ body {
   color: #404040;
   line-height: 1.7;
   font-weight: 400;
-  font-size: 14px;
+  font-size: 18px;
   height: 100%;
 }
 
 .container {
   margin: 0 auto;
-  max-width: 1750px;
+  max-width: 1000px;
   padding: 0 10px;
   width: 100%;
 }
@@ -52,14 +51,14 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 h1 {
-  font-size: 26px;
+  font-size: 30px;
   a {
     color: inherit;
   }
 }
 
 h2 {
-  font-size: 20px;
+  font-size: 24px;
 }
 
 @media (min-width: 769px){
@@ -75,11 +74,11 @@ h2 {
 }
 
 h3 {
-  font-size: 16px;
+  font-size: 20px;
 }
 
 h4 {
-  font-size: 14px;
+  font-size: 18px;
   color: #222;
 }
 
