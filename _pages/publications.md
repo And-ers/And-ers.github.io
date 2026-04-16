@@ -6,6 +6,28 @@ permalink: /publications/
 
 ---
 
+## 2026
+
+<div class="stylebox" markdown="1">
+
+# Structured Preconditioners for Smith Form Computations
+
+<p style="text-align:left;" markdown="1">
+
+***MMath Research Project***
+
+<span style="float:right;" markdown="1">
+
+***Anders Cornect, Arne Storjohann***
+
+</span>
+
+</p>
+
+We provide two contributions to the problem of preconditioning a nonsingular matrix \\(A\\) over \\(\mathbf{K}[x]\\), with \\(\mathbf{K}\\) a sufficiently large field, for easier Smith form computation. First, we show that post-multiplying \\(A\\) by a random unit lower triangular Toeplitz matrix will, with high probability, put its Hermite form into triangular Smith form. We then show that if one pre- (and post-) multiplies \\(A\\) by a random unit upper (respectively lower) triangular Toeplitz matrix, the resulting matrix will, with high probability, have the following property: For all \\(i\\) from \\(1\\) to \\(n\\), the greatest common divisor of the \\(i \times i\\) leading principal minor of \\(A\\) with \\(\det A\\) is equal to the \\(i^{\text{th}}\\) determinantal divisor of \\(A\\).
+
+</div>
+
 ## 2025
 
 <div class="stylebox" markdown="1">

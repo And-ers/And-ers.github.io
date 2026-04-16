@@ -7,7 +7,7 @@ permalink: /about/
 <div style="margin:20px;">
 
 <p>
-Hi! My name is Anders Cornect, and I'm a Master's student at the University of Waterloo, currently pursuing an MMath in Computational Mathematics.
+Hi! My name is Anders Cornect, and I am a mathematician and algorithms researcher with a MMath in Computational Mathematics from the University of Waterloo.
 </p>
 
 <p>
