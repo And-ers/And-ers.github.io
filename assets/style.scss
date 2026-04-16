@@ -26,11 +26,14 @@ body {
   font-weight: 400;
   font-size: 18px;
   height: 100%;
+  margin: 0;
+  padding: 0;
+  width: 100%;
 }
 
 .container {
   margin: 0 auto;
-  max-width: 1980px;
+  max-width: 1000px;
   padding: 0 10px;
   width: 100%;
 }
