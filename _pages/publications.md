@@ -10,15 +10,15 @@ permalink: /publications/
 
 <div markdown="1">
 
-# Structured Preconditioners for Smith Form Computations
+**Structured Preconditioners for Smith Form Computations**
 
 <p style="text-align:left;" markdown="1">
 
-***MMath Research Project***
+*MMath Research Project*
 
 <span style="float:right;" markdown="1">
 
-***Anders Cornect, Arne Storjohann***
+*Anders Cornect, Arne Storjohann*
 
 </span>
 
