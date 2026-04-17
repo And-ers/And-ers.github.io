@@ -31,7 +31,7 @@ We provide two contributions to the problem of preconditioning a nonsingular mat
 
 <p class="pubtitle" markdown="1">
 
-# The Lamplighter Groups and Thompson's Group F have Infinite Weak-Cop Number [(Link)](https://doi.org/10.1007/s10711-025-00991-x)
+The Lamplighter Groups and Thompson's Group F have Infinite Weak-Cop Number ([Link](https://doi.org/10.1007/s10711-025-00991-x))
 
 </p><p class="author" markdown="1">
 
@@ -46,24 +46,21 @@ The weak-cop number of a graph, introduced by Lee et al (2023), is a quasi-isome
 
 ## 2024
 
-<div class="stylebox" markdown="1">
+<div markdown="1">
 
-# [Gromov's Approximating Tree and the All-Pairs Bottleneck Paths Problem](https://arxiv.org/abs/2408.05338)
+<p class="pubtitle" markdown="1">
 
-<p style="text-align:left;" markdown="1">
+Gromov's Approximating Tree and the All-Pairs Bottleneck Paths Problem ([Link](https://arxiv.org/abs/2408.05338))
 
-***Preprint***
+</p><p class="author" markdown="1">
 
-<span style="float:right;" markdown="1">
+Anders Cornect, Eduardo Martinez-Pedroza<br>Involve: A Journal of Mathematics (to be published)
 
-***Anders Cornect, Eduardo Martinez-Pedroza***
-
-</span>
-
-</p>
+</p><p class="abstract" markdown="1">
 
 Given a pointed metric space \\((X,\mathrm{dist},w)\\) on \\(n\\) points, its Gromov's approximating tree is a \\(0\\)-hyperbolic pseudo-metric space \\((X,\mathrm{dist}_T)\\) such that \\(\mathrm{dist}(x,w)=\mathrm{dist}_T(x,w)\\) and \\(\mathrm{dist}(x,y)−2\delta\log_2n \le \mathrm{dist}_T(x,y) \le \mathrm{dist}(x,y)\\) for all \\(x,y \in X\\) where \\(\delta\\) is the Gromov hyperbolicity of \\(X\\). On the other hand, the all pairs bottleneck paths (APBP) problem asks, given an undirected graph with some capacities on its edges, to find the maximal path capacity between each pair of vertices. In this note, we prove: (1) Computing Gromov's approximating tree for a metric space with \\(n+1\\) points from its matrix of distances reduces to solving the APBP problem on an connected graph with \\(n\\) vertices. (2) There is an explicit algorithm that computes Gromov's approximating tree for a graph from its adjacency matrix in quadratic time. (3) Solving the APBP problem on a weighted graph with n vertices reduces to finding Gromov's approximating tree for a metric space with \\(n+1\\) points from its distance matrix. 
 
+</p>
 </div>
 
 # Presentations
@@ -71,14 +68,23 @@ Given a pointed metric space \\((X,\mathrm{dist},w)\\) on \\(n\\) points, its Gr
 
 ## 2023
 
-<div class="stylebox" markdown="1">
+<div markdown="1">
 
-# An Improved Algorithm for Gromov's Approximating Tree
+<p class="pubtitle" markdown="1">
 
-*MUN Summer Undergraduate Research Forum, Oct. 2023; Science Atlantic Mathematics, Statistics and Computer Science, Oct. 2023; MUN Cross-Campus Combinatorics Conference, Aug. 2023*
+An Improved Algorithm for Gromov's Approximating Tree
+
+</p><p class="author" markdown="1">
+
+MUN Summer Undergraduate Research Forum, Oct. 2023<br>
+Science Atlantic Mathematics, Statistics and Computer Science, Oct. 2023<br>
+MUN Cross-Campus Combinatorics Conference, Aug. 2023
+
+</p><p class="abstract" markdown="1">
 
 In 1987, Mikhail Gromov described an algorithm for constructing an approximating tree for an arbitrary finite metric space, with additive error proportional to a property of the space called the Gromov hyperbolicity. We discuss an improved version of this algorithm when the metric space is a graph, which runs in \\(O(n^2)\\) time given the graph's adjacency matrix.
 
+</p>
 </div>
 
 ## 2022
