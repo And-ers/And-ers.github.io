@@ -16,37 +16,32 @@ Structured Preconditioners for Smith Form Computations
 
 </p><p class="author" markdown="1">
 
-Anders Cornect, Arne Storjohann<br>
-MMath Research Project
+Anders Cornect, Arne Storjohann<br>MMath Research Project
 
 </p><p class="abstract" markdown="1">
 
 We provide two contributions to the problem of preconditioning a nonsingular matrix \\(A\\) over \\(\mathbf{K}[x]\\), with \\(\mathbf{K}\\) a sufficiently large field, for easier Smith form computation. First, we show that post-multiplying \\(A\\) by a random unit lower triangular Toeplitz matrix will, with high probability, put its Hermite form into triangular Smith form. We then show that if one pre- (and post-) multiplies \\(A\\) by a random unit upper (respectively lower) triangular Toeplitz matrix, the resulting matrix will, with high probability, have the following property: For all \\(i\\) from \\(1\\) to \\(n\\), the greatest common divisor of the \\(i \times i\\) leading principal minor of \\(A\\) with \\(\det A\\) is equal to the \\(i^{\text{th}}\\) determinantal divisor of \\(A\\).
 
 </p>
-
 </div>
 
 ## 2025
 
-<div class="stylebox" markdown="1">
+<div markdown="1">
 
-# [The Lamplighter Groups and Thompson's Group F have Infinite Weak-Cop Number](https://doi.org/10.1007/s10711-025-00991-x)
+<p class="pubtitle" markdown="1">
 
-<p style="text-align:left;" markdown="1">
+# The Lamplighter Groups and Thompson's Group F have Infinite Weak-Cop Number [(Link)](https://doi.org/10.1007/s10711-025-00991-x)
 
-***Geometrae Dedicata, 2025***
+</p><p class="author" markdown="1">
 
-<span style="float:right;" markdown="1">
+Anders Cornect, Eduardo Martinez-Pedroza<br>Geometriae Dedicata, 2025
 
-***Anders Cornect, Eduardo Martinez-Pedroza***
-
-</span>
-
-</p>
+</p><p class="abstract" markdown="1">
 
 The weak-cop number of a graph, introduced by Lee et al (2023), is a quasi-isometric invariant of graphs and hence of finitely generated groups via their Cayley graphs. While for any \\(m \in \mathbb{Z}_+ \cup \\{\infty\\} \\) there exist graphs with weak-cop number \\(m\\), it is an open question whether there exists finitely generated groups whose weak-cop number is different than \\(1\\) and \\(\infty\\). We prove that wreath products of nontrivial groups by infinite groups have infinite weak-cop number. We also prove that Thompson's group \\(F\\) has infinite weak-cop number. The results are proved by defining two new pursuit and evasion games and proving the existence of strategies for the evader. In the case of Thompson's group \\(F\\), we also present an alternative and more algebraic argument proving that it has infinite weak-cop number.
 
+</p>
 </div>
 
 ## 2024
