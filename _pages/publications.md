@@ -18,6 +18,8 @@ permalink: /publications/
 
 Anders Cornect, Arne Storjohann
 
+</p><p class="author" markdown="1">
+
 MMath Research Project
 
 </p><p class="abstract" markdown="1">
