@@ -12,14 +12,11 @@ permalink: /publications/
 
 <p class="pubtitle" markdown="1">
 
-*Structured Preconditioners for Smith Form Computations*
+Structured Preconditioners for Smith Form Computations
 
 </p><p class="author" markdown="1">
 
-Anders Cornect, Arne Storjohann
-
-</p><p class="author" markdown="1">
-
+Anders Cornect, Arne Storjohann<br>
 MMath Research Project
 
 </p><p class="abstract" markdown="1">
