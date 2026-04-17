@@ -89,12 +89,20 @@ In 1987, Mikhail Gromov described an algorithm for constructing an approximating
 
 ## 2022
 
-<div class="stylebox" markdown="1">
+<div markdown="1">
 
-# The Watchman's Walk on Directed Circulants and 3-Regular Cayley Graphs
+<p class="pubtitle" markdown="1">
 
-*MUN Summer Undergraduate Research Forum, Sep. 2022; East Coast Combinatorics Conference, Aug. 2022*
+The Watchman's Walk on Directed Circulants and 3-Regular Cayley Graphs
+
+</p><p class="author" markdown="1">
+
+MUN Summer Undergraduate Research Forum, Sep. 2022<br>
+East Coast Combinatorics Conference, Aug. 2022
+
+</p><p class="abstract" markdown="1">
 
 The watchman number of a graph \\(G\\) is the length of a minimum, closed, dominating walk on \\(G\\), which we denote \\(w(G)\\). We provide results on the watchman number of certain Cayley graphs. We establish sharp bounds, along with exact values in certain special cases, for directed circulant graphs of out-degree \\(2\\). We also provide a full survey of the watchman number for all \\(3\\)-regular Cayley graphs of abelian groups, using a known classification of such graphs into isomorphism classes.
 
+</p>
 </div>
